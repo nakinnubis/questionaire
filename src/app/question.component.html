@@ -1,21 +1,35 @@
 
 <h1>This is our question page</h1>
-<div class="example-container">
-  <mat-form-field>
-    <input matInput placeholder="Input">
-  </mat-form-field>
-
-  <mat-form-field>
-    <textarea matInput placeholder="Textarea"></textarea>
-  </mat-form-field>
-
-  <mat-form-field>
-    <mat-select placeholder="Select">
-      <mat-option value="option">Option</mat-option>
-    </mat-select>
-  </mat-form-field>
-  <button mat-button>Click me!</button>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+<mat-card>
+  <mat-card-content>
+      <div class="example-container">
+          <mat-form-field>
+            <input matInput placeholder="Input" [(ngModel)]="questionTitle" name="questionTitle">
+          </mat-form-field>
+        
+          <mat-form-field>
+            <textarea matInput placeholder="Textarea" [(ngModel)]="questionBody" name="questionBody"></textarea>
+          </mat-form-field>
+        
+          <mat-form-field>
+            <mat-select placeholder="Select" [(ngModel)]="selectedOption" name="selectedOption">
+              <mat-option value="option">Option</mat-option>
+              <mat-option value="30">30</mat-option>
+              <mat-option value="40">40</mat-option>
+            </mat-select>
+          </mat-form-field>
+          <button mat-button class="btn btn-info"(click)="post(questionTitle,questionBody,selectedOption)">Click me!</button>
+        
+        </div>
+     
+  </mat-card-content>    
+</mat-card>  
+ </div>
+  </div>
 </div>
+
 
       

@@ -1,0 +1,11 @@
+C:\Users\akinn\Box Sync\Big Projects\quizapp\bin\Debug\netcoreapp2.0\quizapp.deps.json
+C:\Users\akinn\Box Sync\Big Projects\quizapp\bin\Debug\netcoreapp2.0\quizapp.runtimeconfig.json
+C:\Users\akinn\Box Sync\Big Projects\quizapp\bin\Debug\netcoreapp2.0\quizapp.runtimeconfig.dev.json
+C:\Users\akinn\Box Sync\Big Projects\quizapp\bin\Debug\netcoreapp2.0\quizapp.dll
+C:\Users\akinn\Box Sync\Big Projects\quizapp\bin\Debug\netcoreapp2.0\quizapp.pdb
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.csprojResolveAssemblyReference.cache
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.csproj.CoreCompileInputs.cache
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.AssemblyInfoInputs.cache
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.AssemblyInfo.cs
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.dll
+C:\Users\akinn\Box Sync\Big Projects\quizapp\obj\Debug\netcoreapp2.0\quizapp.pdb
